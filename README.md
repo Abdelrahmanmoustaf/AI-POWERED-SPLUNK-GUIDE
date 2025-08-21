@@ -14,4 +14,3 @@ AI-powered Splunk Assistant designed to help users query the Splunk 8.2.1 Admin 
 
 6-Provides a clean and professional Gradio UI for user interaction.
 
-colab link:https://colab.research.google.com/drive/18Vd47h0ZN_Ed04HSSw3Jc40mPchKy8Nh?usp=sharing
